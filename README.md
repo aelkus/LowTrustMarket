@@ -13,4 +13,4 @@ Agents decide on whether or not to honor their contractual arrangements by looki
 
 # Use notes 
 
-Download and run the model as a Python script. The model will prompt for input parameters and specify their requirements. Because the market is intended to be small I mostly fed it inputs of between 100 to 500 agents. As this is a quick and dirty prototype I haven't tested it on a wide variety of input levels for number of agents and number of simulated model years. Because the primary purpose of the model was prototyping/playing around with agent memory settings output is pushed to the shell rather than an an external data file. 
+Download and run the model as a Python script. The model will prompt for input parameters and specify their requirements. The market is intended to be small, so I mostly fed it inputs of between 100 to 500 agents. I also haven't tested it on a wide variety of input levels for number of agents and number of simulated model years. To facilitate the purpose of prototyping/playing around with agent memory settings output is pushed to the shell rather than an an external data file. 
